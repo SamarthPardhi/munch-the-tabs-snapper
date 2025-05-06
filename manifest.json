@@ -22,7 +22,7 @@
     "commands": {
       "save-and-close-tab": {
         "suggested_key": {
-          "default": "Ctrl+Shift+W",
+          "default": "Alt+Shift+W",
           "mac": "MacCtrl+Shift+W"
         },
         "description": "Save URL and Close Tab"
