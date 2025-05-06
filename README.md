@@ -1,13 +1,13 @@
 # Munch the Tabs Killer: A Web Extension
 
 ## Overview
-Munch the Tabs Killer is a browser extension that solves the common problem of tab clutter. When you have too many tabs open that are:
+When you have too many tabs open that are:
 - Too important to close
 - Not significant enough to bookmark
 - Creating clutter that slows your system
 - Living for days or weeks in a state of indecision
 
-This extension allows you to quickly save a tab's URL and close it with a simple keyboard shortcut (Ctrl+Shift+W), keeping your browser clean and organized.
+This extension allows you to quickly save a tab's URL and close it with `Alt+Shift+W` (Windows/Linux) or `MacCtrl+Shift+W` (⌃⇧W) (Mac), keeping your browser clean and organized.
 
 ![Extension screenshot](extension_screenshot.png)
 
@@ -35,14 +35,14 @@ This extension allows you to quickly save a tab's URL and close it with a simple
 
 ## Usage
 1. When you have a tab you want to save but close:
-   - Press `Ctrl+Shift+W` (Windows/Linux) or `Cmd+Shift+W` (Mac)
+   - Press `Alt+Shift+W` (Windows/Linux) or `MacCtrl+Shift+W` (⌃⇧W) (Mac)
    - The tab will be saved and closed automatically
 2. To access your saved tabs:
    - Click on the extension icon in your browser toolbar
    - View and manage your saved tabs in the popup
 
 ## Contributing
-Contributions are welcome! Feel free to submit issues or pull requests.
+Feel free to submit issues or pull requests.
 
 ## License
 [MIT License](LICENSE)
