@@ -5,4 +5,4 @@ When you have a lot of browser tabs open that are too important to close but not
 
 To solve this, I made an extension which will save the url and close the tab by pressing Ctrl+Shift+W
 
-[![Extension screenshot](image.png)]
+![Extension screenshot](extension_screenshot.png)
